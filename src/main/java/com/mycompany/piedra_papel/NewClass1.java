@@ -12,7 +12,7 @@ import javax.swing.JLabel;
 
 /**
  *
-
+@author Maria
  */
 public class NewClass1 {   
     public static JLabel[] label=new JLabel[2];
